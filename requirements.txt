@@ -1,0 +1,11 @@
+pandas
+numpy
+google-play-scraper
+textblob
+nltk
+matplotlib
+seaborn
+scikit-learn
+pytest
+black
+flake8
